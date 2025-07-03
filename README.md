@@ -6,3 +6,4 @@ This repository includes:
 
 - ✅ Churn prediction using classification and survival models
 - ✅ Image Classification (Cat vs Dog) using Transfer Learning ResNet18
+- ✅ Sentiment Analysis
