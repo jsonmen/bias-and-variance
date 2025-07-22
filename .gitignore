@@ -61,3 +61,7 @@ htmlcov/
 # IPython history
 .profile_default/
 ipython_config.py
+
+# Models and datasets
+models/
+data/
